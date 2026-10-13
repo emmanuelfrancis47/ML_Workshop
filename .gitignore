@@ -8,5 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+# Large radio data — ignore everything in data/ except README preview PNGs
 data/catalog/*
+!data/catalog/diag_rms_resid.png
+!data/catalog/diag_flux_ratio.png
+!data/catalog/source_counts.png
 data/images/*

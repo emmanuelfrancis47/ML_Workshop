@@ -1,0 +1,13 @@
+# pip fallback generated from pyproject.toml (uv remains canonical: `uv sync`)
+# Install with: pip install -r requirements.txt
+astroml>=1.0.2.post1
+astropy>=6.1.7
+astroquery>=0.4.11
+bdsf[ishell]>=1.14.1
+jupyter>=1.1.1
+matplotlib>=3.10.9
+notebook>=7.6.3
+radio-beam>=0.3.10
+scipy>=1.15.3
+seaborn>=0.13.2
+sympy>=1.14.0
